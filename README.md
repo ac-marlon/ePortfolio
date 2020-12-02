@@ -1,2 +1,2 @@
-# My-ePortfolio
+# MyePortfolio
 My ePortfolio for business and jobs
